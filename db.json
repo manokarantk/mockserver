@@ -11,13 +11,13 @@
       "from_user":{
         "userid" : 100,
         "name":"manokaran",
-        "username":"manokarantk"
+        "username":"manokarantk",
         "profilepicture": "https://source.unsplash.com/random"
       },
       "to_user":{
         "userid" : 101,
         "name":"sindhuja",
-        "username":"sindhujamano"
+        "username":"sindhujamano",
         "profilepicture": "https://source.unsplash.com/random"
       },
       "status": {
