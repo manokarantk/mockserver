@@ -5,6 +5,27 @@
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
+  "friendrequests":[
+    {
+      "id":1,
+      "from_user":{
+        "userid" : 100,
+        "name":"manokaran",
+        "username":"manokarantk"
+        "profilepicture": "https://source.unsplash.com/random"
+      },
+      "to_user":{
+        "userid" : 101,
+        "name":"sindhuja",
+        "username":"sindhujamano"
+        "profilepicture": "https://source.unsplash.com/random"
+      },
+      "status": {
+      "id": 12,
+        "name":"pending"
+      }
+    }
+  ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
