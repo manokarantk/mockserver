@@ -20,6 +20,14 @@
         "profilepicture": "https://i.imgur.com/tGbaZCY.jpg"
     }
   ],
+  "friends":[
+    {
+      "userid" : 103,
+       "name":"Bala",
+       "username":"bala",
+       "profilepicture": "https://i.imgur.com/tGbaZCY.jpg"
+    }
+  ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
