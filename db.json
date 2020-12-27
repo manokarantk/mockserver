@@ -24,6 +24,25 @@
       "id": 12,
       "name":"pending"
       }
+    },
+     {
+      "id":2,
+      "from_user":{
+        "userid" : 102,
+        "name":"sandesh",
+        "username":"sandesh",
+        "profilepicture": "https://source.unsplash.com/random"
+      },
+      "to_user":{
+        "userid" : 101,
+        "name":"sindhuja",
+        "username":"sindhujamano",
+        "profilepicture": "https://source.unsplash.com/random"
+      },
+      "status": {
+      "id": 12,
+      "name":"pending"
+      }
     }
   ],
   "comments": [
