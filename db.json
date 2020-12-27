@@ -28,6 +28,14 @@
        "profilepicture": "https://i.imgur.com/tGbaZCY.jpg"
     }
   ],
+  "suggetions":[
+    {
+      "userid" : 104,
+       "name":"Thirumurugan",
+       "username":"thiru",
+       "profilepicture": "https://i.imgur.com/tGbaZCY.jpg"
+    }
+  ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
