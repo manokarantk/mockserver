@@ -12,6 +12,7 @@
   },
   "User":{
     "userid": "int",
-    "name" : "string"
+    "name" : "string",
+    "createdAt":"date"
   }
 }
