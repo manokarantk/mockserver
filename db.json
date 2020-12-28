@@ -33,33 +33,30 @@
     }
   ],
   "tips":{
-  "recommentstocks":{
-    "title": "Recommented stockes",
-    "rows":[
+  "recommentstocks":
+    [
       {
-      "stockname":"Asian paints",
-      "marketvalue": 14975.00,
-      "changevalue":"-343.60 (33)",
-      "isgain": false
+      "stockName":"Asian paints",
+      "stockOpeningValue": 14975.00,
+      "valueChanged":"-343.60 (33)",
+      "isGain": false
       },
       {
-      "stockname":"HDFC",
-      "marketvalue": 2068.50,
-      "changevalue":"-643.60 (33)",
-      "isgain": false
+      "stockName":"HDFC",
+      "stockOpeningValue": 2068.50,
+      "valueChanged":"-643.60 (33)",
+      "isGain": false
       },
       {
-      "stockname":"ONGC",
-      "marketvalue": 2068.50,
-      "changevalue":"643.60 (33)",
-      "isgain": true
+      "stockName":"ONGC",
+      "stockOpeningValue": 2068.50,
+      "valueChanged":"643.60 (33)",
+      "isGain": true
       }
-      ]
-  },
- "recommentnews": {
-    "title": "Handpick Information only for you",
-    "rows":[
+      ],
+ "recommentnews": [
       {
+      
       "title":"Asian paints",
       "description": 14975.00,
       "image":"-343.60 (33)",
@@ -82,11 +79,8 @@
       "createdat": "25 min ago | 15 min read"
 
       }
-      ]
-  },
-  "topfeeds":{
-    "title":"Top Feeds",
-    "rows":[{
+      ],
+  "topfeeds":[{
       "id":1,
       "content":"Leave a note while you are out of the office next time. It alerts your prospects and other yes bank",
       "postedon":"14 Mar 2020",
@@ -101,7 +95,7 @@
         }
     }]
   }
-  }
+  
   
   
 }
