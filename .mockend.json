@@ -24,7 +24,13 @@
   "Service":
   {
     "id": "int",
-     "post": "has many"
+    "image": "string",
+    "servicetype": "string",
+    "benefit":"string",
+    "category":"string",
+    "price":"string",
+    "offerprice":"string"
+    
 
   }
 }
