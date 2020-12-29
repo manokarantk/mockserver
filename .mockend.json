@@ -37,7 +37,6 @@
     "id":"int",
     "name":"string",
     "duration": "string",
-    "expire_on": "date",
-    "coordinator":"Post"
+    "expire_on": "date"
   }
 }
