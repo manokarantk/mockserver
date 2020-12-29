@@ -22,7 +22,7 @@
         "createdAt":"date"
   },
  
-  "package":{
+  "Package":{
     "id":"int",
     "name":"string",
     "duration": "string",
