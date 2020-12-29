@@ -27,9 +27,7 @@
     "name":"string",
     "duration": "string",
     "expire_on": "date",
-    "coordinator": "{
-        "id": "int"
-      }"
+    "coordinator": "int"
   },
    "Service":
   {
