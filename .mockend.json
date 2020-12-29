@@ -14,7 +14,7 @@
     "userid": "int",
     "name" : "string",
     "createdAt":"date"
-  }
+  },
   "Category":{
        "id":"int",
         "name":"string",
