@@ -24,7 +24,7 @@
   "Service":
   {
     "id": "int",
-     "post": "Post"
+     "post": "has many"
 
   }
 }
