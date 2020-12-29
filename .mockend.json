@@ -20,5 +20,10 @@
         "name":"string",
         "image":"string",
         "createdAt":"date"
+  },
+  "Service":
+  {
+    "id": "int",
+    "category":"Category"
   }
 }
