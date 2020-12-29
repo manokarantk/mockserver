@@ -24,6 +24,6 @@
   "Service":
   {
     "id": "int",
-    "category":"Category"
+    "category":"Category[]"
   }
 }
