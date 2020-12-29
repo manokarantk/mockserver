@@ -15,4 +15,10 @@
     "name" : "string",
     "createdAt":"date"
   }
+  "Category":{
+       "id":"int",
+        "name":"string",
+        "image":"string",
+        "createdAt":"date"
+  }
 }
