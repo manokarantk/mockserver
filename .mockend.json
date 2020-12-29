@@ -27,5 +27,17 @@
     "name":"string",
     "duration": "string",
     "expire_on": "date"
-  }
+  },
+   "Service":
+  {
+    "id": "int",
+    "image": "string",
+    "servicetype": "string",
+    "benefit":"string",
+    "category":"string",
+    "price":"string",
+    "offerprice":"string"
+    
+
+  },
 }
