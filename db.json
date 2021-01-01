@@ -58,25 +58,34 @@
       {
       
       "title":"Asian paints",
-      "description": 14975.00,
-      "image":"-343.60 (33)",
-      "ispremium": false,
-      "createdat": "5 min ago | 10 min read"
+      "content": "14975.00",
+      "description": "14975.00",
+      "source":"-343.60 (33)",
+      "author": false,
+      "url": false,
+      "urlToImage": false,
+      "publishedAt": "5 min ago | 10 min read"
       },
       {
-      "stockname":"HDFC",
-      "marketvalue": 2068.50,
-      "changevalue":"-643.60 (33)",
-      "isgain": false,
-      "createdat": "20 min ago | 5 min read"
+       "title":"Asian paints",
+      "content": 14975.00,
+      "description": 14975.00,
+      "source":"-343.60 (33)",
+      "author": false,
+      "url": false,
+      "urlToImage": false,
+      "publishedAt": "5 min ago | 10 min read"
 
       },
       {
-      "stockname":"ONGC",
-      "marketvalue": 2068.50,
-      "changevalue":"643.60 (33)",
-      "isgain": true,
-      "createdat": "25 min ago | 15 min read"
+       "title":"Asian paints",
+      "content": 14975.00,
+      "description": 14975.00,
+      "source":"-343.60 (33)",
+      "author": false,
+      "url": false,
+      "urlToImage": false,
+      "publishedAt": "5 min ago | 10 min read"
 
       }
       ],
