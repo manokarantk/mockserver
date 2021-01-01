@@ -36,7 +36,7 @@
   "recommentstocks":
     [
       {
-      "stockName":"Asian paints",
+      "stockName":"Asian paints1",
       "stockOpeningValue": 14975.00,
       "valueChanged":"-343.60 (33)",
       "isGain": false
@@ -54,7 +54,7 @@
       "isGain": true
       }
       ],
- "recommentnews": [
+ "topnews": [
       {
       
       "title":"Asian paints",
