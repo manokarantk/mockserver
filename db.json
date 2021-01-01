@@ -60,7 +60,10 @@
       "title":"Asian paints",
       "content": "14975.00",
       "description": "14975.00",
-      "source":"-343.60 (33)",
+      "source": {
+        "id": "1",
+        "name": "India today"
+      },
       "author": false,
       "url": false,
       "urlToImage": false,
@@ -70,7 +73,10 @@
        "title":"Asian paints",
       "content": 14975.00,
       "description": 14975.00,
-      "source":"-343.60 (33)",
+      "source":{
+        "id": "1",
+        "name": "India today"
+      },
       "author": false,
       "url": false,
       "urlToImage": false,
@@ -81,7 +87,10 @@
        "title":"Asian paints",
       "content": 14975.00,
       "description": 14975.00,
-      "source":"-343.60 (33)",
+      "source":{
+        "id": "1",
+        "name": "India today"
+      },
       "author": false,
       "url": false,
       "urlToImage": false,
