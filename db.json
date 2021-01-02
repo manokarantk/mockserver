@@ -131,7 +131,17 @@
   "data":{
   "advisor":[
       {
-      "name":"mano"
+      "userid":1,
+      "name":"mano",
+      "profession":"Photographer",
+      "profilepic":"https://i.imgur.com/tGbaZCY.jpg",
+      "email":"manokarantk@gmail.com",
+      "phone":"8148647067",
+      "rating": 4.5,
+      "reviews": 1540,
+      "followers": 10000,
+      "comments": 12000,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
       }],
     "notifications":[
       {
