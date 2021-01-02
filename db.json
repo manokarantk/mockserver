@@ -126,11 +126,12 @@
        "profilepicture": "https://source.unsplash.com/random"
         }
     }],
-    "advisor":[
+    
+  },
+  "advisor":[
       {
       "name":"mano"
       }]
-  }
   
   
   
