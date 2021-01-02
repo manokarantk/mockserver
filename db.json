@@ -145,7 +145,22 @@
       }],
     "notifications":[
       {
-      "name":"mano"
+      "type":"Price Alert",
+      "title": "Paypal's tips to navigate this uncertain ...",
+      "image": "https://i.imgur.com/tGbaZCY.jpg",
+      "description": "@Thomas"
+      },
+      {
+      "type":"News Alert",
+      "title": "Paypal's tips to navigate this uncertain ...",
+      "image": "https://i.imgur.com/tGbaZCY.jpg",
+      "description": "@Thomas"
+      },
+    {
+      "type":"Friend Request",
+      "title": "Thoma Fulloway",
+      "image": "https://i.imgur.com/tGbaZCY.jpg",
+      "description": "@Thomas"
       }]
   }
   
