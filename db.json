@@ -1,21 +1,83 @@
 
 {
   
-  "friendrequests":[
-    {
-      "userid" : 100,
-       "name":"manokaran",
-       "username":"manokarantk",
-       "profilepicture": "https://source.unsplash.com/random"
-    },
-     {
-      
-        "userid" : 102,
-        "name":"sandesh",
-        "username":"sandesh",
-        "profilepicture": "https://i.imgur.com/tGbaZCY.jpg"
-    }
-  ],
+  "testmasters":[
+  {
+    "id": "test-001",
+    "name": "Complete Blood Count (CBC)",
+    "description": "A complete blood count (CBC) is a blood test used to evaluate your overall health and detect a wide range of disorders.",
+    "categories": ["Hematology"],
+    "sample_types": ["Blood"],
+    "tags": ["Routine", "General Checkup"],
+    "test_preparation_instructions": "No specific preparation required.",
+    "test_risk_level": "Low",
+    "reference_range": "Varies based on parameters like WBC, RBC, etc.",
+    "is_priority": false,
+    "is_pediatric": true,
+    "is_gynae": false,
+    "is_urgent": false
+  },
+  {
+    "id": "test-002",
+    "name": "Fasting Blood Sugar (FBS)",
+    "description": "Measures the glucose level in your blood after a period of fasting.",
+    "categories": ["Diabetes", "Biochemistry"],
+    "sample_types": ["Blood"],
+    "tags": ["Diabetes", "Fasting"],
+    "test_preparation_instructions": "Fast for 8–12 hours before the test.",
+    "test_risk_level": "Medium",
+    "reference_range": "70 to 99 mg/dL",
+    "is_priority": true,
+    "is_pediatric": true,
+    "is_gynae": false,
+    "is_urgent": false
+  },
+  {
+    "id": "test-003",
+    "name": "Thyroid Function Test (TFT)",
+    "description": "Includes tests for TSH, T3, and T4 to assess thyroid gland function.",
+    "categories": ["Endocrinology"],
+    "sample_types": ["Blood"],
+    "tags": ["Thyroid", "Hormones"],
+    "test_preparation_instructions": "No special preparation is needed.",
+    "test_risk_level": "Low",
+    "reference_range": "TSH: 0.4–4.0 mIU/L; T3/T4 varies",
+    "is_priority": false,
+    "is_pediatric": true,
+    "is_gynae": true,
+    "is_urgent": false
+  },
+  {
+    "id": "test-004",
+    "name": "Urine Routine Test",
+    "description": "Analyzes urine for a wide range of disorders such as urinary tract infections and kidney disease.",
+    "categories": ["Urology", "Pathology"],
+    "sample_types": ["Urine"],
+    "tags": ["Routine", "UTI"],
+    "test_preparation_instructions": "Collect midstream sample in a sterile container.",
+    "test_risk_level": "Low",
+    "reference_range": "No pus cells, proteins, ketones, etc.",
+    "is_priority": false,
+    "is_pediatric": true,
+    "is_gynae": true,
+    "is_urgent": false
+  },
+  {
+    "id": "test-005",
+    "name": "COVID-19 RT-PCR",
+    "description": "Detects the presence of SARS-CoV-2 virus using RT-PCR technology.",
+    "categories": ["Virology", "Infectious Diseases"],
+    "sample_types": ["Nasal Swab", "Throat Swab"],
+    "tags": ["COVID-19", "PCR"],
+    "test_preparation_instructions": "Do not eat, drink, smoke, or chew gum 30 minutes prior to sample collection.",
+    "test_risk_level": "High",
+    "reference_range": "Negative",
+    "is_priority": true,
+    "is_pediatric": true,
+    "is_gynae": true,
+    "is_urgent": true
+  }
+],
   "friends":[
     {
       "userid" : 103,
